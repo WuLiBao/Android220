@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void initViews() {
         mRecyclerView= (RecyclerView) findViewById(R.id.recyclerView);
+
+
        // LinearLayoutManager manager=new LinearLayoutManager(this);
         //manager.setOrientation(LinearLayoutManager.HORIZONTAL);
         //GridLayoutManager manager=new GridLayoutManager(this,3);
